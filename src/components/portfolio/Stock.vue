@@ -1,3 +1,3 @@
 <template>
-  <h1>Stocks</h1>
+  <h1>Portfolio Stocks</h1>
 </template>
